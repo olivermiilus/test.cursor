@@ -1,0 +1,24 @@
+{
+  "name": "intersection-traffic-counter",
+  "version": "1.0.0",
+  "description": "Pedestrian and cycle traffic counter for four-way intersections",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.394.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.3",
+    "vite": "^4.4.5"
+  },
+  "keywords": ["traffic", "counter", "intersection", "pedestrian", "cycling"],
+  "author": "",
+  "license": "MIT"
+}
